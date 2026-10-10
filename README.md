@@ -1,24 +1,36 @@
-# Olá! Eu sou Jefferson Mauricio Reis, formado em análise e desenvolvimento de sistemas.
+# Olá, eu sou o Jefferson 👋
 
-## Possuo conhecimento nas seguintes tecnologias:  
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+Desenvolvedor back-end Python (Django, Django REST Framework, FastAPI e Flask), em busca de uma oportunidade como desenvolvedor júnior.
 
+Sou formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal Catarinense, onde também fui professor de Programação Web, Banco de Dados e Engenharia de Software. Antes disso, trabalhei com TI na indústria, com servidores Linux e Windows, redes e automações em Python.
 
-  
-  ## Atualmente estudando as seguintes tecnologias:
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- </div>
+## Projetos em destaque
 
- ##
-<div> 
-  <a href="https://instagram.com/jeffersonmreis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jeffersonmauricioreis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jefferson-mauricio-reis-97018520b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+### [HelpDesk Pro](https://github.com/zJefferson/helpdesk-pro)
+
+Sistema full stack de gestão de chamados de TI, com três perfis de acesso, fluxo de status validado no backend, histórico de alterações e dashboard.
+
+**Django REST Framework · PostgreSQL · React + TypeScript · JWT · pytest (276 testes, 98% de cobertura) · Docker**
+
+### [CodeGuardian](https://github.com/zJefferson/CodeGuardian)
+
+Ferramenta que analisa repositórios Python públicos do GitHub: estrutura do projeto, análise estática com Ruff, auditoria de dependências com pip-audit e relatório com pontuação explicável.
+
+**FastAPI · Pydantic · pytest · Ruff · Docker**
+
+### [GymTracker](https://github.com/zJefferson/GymTracker)
+
+Aplicativo de registro de treinos de academia.
+
+**Flutter · Dart**
+
+## Tecnologias
+
+- **Back-end:** Python, Django, Django REST Framework, FastAPI, Flask
+- **Banco de dados:** PostgreSQL, SQL
+- **Front-end:** HTML, CSS, JavaScript, React, TypeScript
+- **Ferramentas:** Git, Docker, pytest, Linux
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/jefferson-mauricio-reis-97018520b/) · [E-mail](mailto:jeffersonmauricioreis@gmail.com)
